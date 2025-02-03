@@ -1,4 +1,4 @@
-module project-user
+module project-common
 
 go 1.22.0
 
